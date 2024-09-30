@@ -14,10 +14,10 @@ This project involves building a simple Python-based mortgage calculator, which 
 After clicking on the link to the working app, input the required details for the mortgage calculation, and click on the **"CALCULATE"** button.
 
 ### Before Calculation
-![App Screenshot](screenshots/app_home.png)
+![App Screenshot](images/before_pred.jpg)
 
 ### After Calculation
-![App Screenshot](screenshots/app_solution.png)
+![App Screenshot](images/after_pred.jpg)
 
 ---
 
