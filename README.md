@@ -4,9 +4,11 @@ This project involves building a simple Python-based mortgage calculator, which 
 ---
 
 ## Summary
-| Jupyter Notebook | Power BI Dashboard | Published Article | Deployed App on Hugging Face | Deployed FastAPI on Hugging Face |
-| ---------------- | ------------------ | ----------------- | ---------------------------- | --------------------------------- |
-| [Notebook with analysis and model development](https://github.com/rasmodev/Income-Prediction-Challenge-For-Azubian/blob/main/dev/Income_Prediction.ipynb) | [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDNjMmExZjYtMWU2NS00NTBjLTk4Y2EtYmQ2MWU2OWMwODMyIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) | [Published Article on Medium]() | [Link to Deployed Streamlit App](https://rasmodev-mortgage-calculator-streamlit.hf.space/) | [Link to Deployed FastAPI](https://rasmodev-mortgage-calculator-fastapi.hf.space/docs) |
+| Jupyter Notebook | Deployed App on Hugging Face |
+| ---------------- | ---------------------------- |
+| [Notebook with analysis and model development](https://github.com/rasmodev/Simple-Mortgage-Calculator/blob/main/Simple%20Python%20Mortgage%20Calculator.ipynb) | [Link to Deployed Streamlit App](https://rasmodev-mortgage-calculator.hf.space) |
+
+---
 
 ## App Interface
 After clicking on the link to the working app, input the required details for the mortgage calculation, and click on the **"CALCULATE"** button.
